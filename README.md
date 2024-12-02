@@ -1,2 +1,2 @@
-# Data-analytics-capstonr
+# Data-analytics-capstone
 Data analysis portfolio
